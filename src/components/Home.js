@@ -4,7 +4,7 @@ import CompanyDetail from './CompanyDetail';
 import Clientdetail from './Clientdetail';
 import ItemsTable from './ItemsTable';
 import Payment from './Payment';
-import PrintLayout from './PrintLayout'; // Import PrintLayout
+import PrintLayout from './PrintLayout'; 
 
 function Home() {
   const [clientName, setClientName] = useState("");

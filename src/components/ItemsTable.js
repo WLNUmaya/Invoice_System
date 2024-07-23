@@ -76,7 +76,7 @@ const ItemsTable = ({ items, handleItemChange, addItem, removeItem, discountPerc
       </div>
 
       <div className="flex justify-end mt-5">
-        <div className="w-1/2 px-2">
+        <div className="w-1/3 px-6">
           <div className="flex justify-between mb-2">
             <span className="font-semibold">Subtotal:</span>
             <span>${subtotal.toFixed(2)}</span>
